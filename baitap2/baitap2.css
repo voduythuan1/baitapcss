@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+article{
+	width: 354px;
+	height: 458px;
+	background-color:#EFEFEF;
+	
+}
+img{
+	width: 354px;
+}
+a{
+	text-decoration: none;
+	font-family: arial;
+	font-size: 24px;
+	font-weight: bold;
+	color: black;
+	margin: 10px;
+	display: block;
+	text-align: left;
+	
+	
+}
+p{
+	font-family: arial;
+	font-size: 14px;
+	color:dimgray;
+	margin: 10px;
+	display: block;
+	text-align: justify;
+}
+
+
+
+

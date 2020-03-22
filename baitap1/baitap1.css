@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+article{
+	width: 496px;
+	height: 530;
+	border: 1px solid red;
+	background-image: url("bg.png");
+}
+img{
+	width: 496px;
+	border-bottom: 1px solid red;
+}
+a{
+	font-family: Tahoma;
+	text-decoration: none;
+	font-size: 23px;
+	font-weight: bold;
+	color: red;
+	margin: 10px;
+	display: block;
+	text-align: left;
+}
+a:hover{
+	color: black;
+}
+p{
+	margin: 10px;
+	text-align: left;
+	font-size: 20px;
+}
+

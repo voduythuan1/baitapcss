@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+article{
+	width: 358px;
+	height: 518px;
+	
+}
+img{
+	width: 358px;
+}
+a{
+	text-decoration: none;
+	font-family: arial;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	margin-top: 10px;
+	display: block;
+	text-align: left;
+}
+.cau1{
+	font-family: arial;
+	font-size: 14px;
+	color: dimgray;
+	margin-top: 10px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid silver;
+	
+}
+.cau2{
+	font-family: arial;
+	font-size: 14px;
+	font-weight: bold;
+	color:black;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid silver;
+}
+.cau3{
+	font-family: arial;
+	font-size: 14px;
+	font-weight: bold;
+	color:black;
+	margin-top: 10px;
+	border-top-color: dimgray;
+}
