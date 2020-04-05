@@ -1,0 +1,56 @@
+.khungngoai{
+	width: 606px;
+	height: 145px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	overflow: hidden;
+}
+.khunganh{
+	width: 216px;
+	height: 145px;
+	float: left;
+	margin-right: 15px;
+	overflow: hidden;
+}
+img{
+	width: 216px;
+	height: 145px;
+	transition: 1s;
+}
+img:hover{
+	transform: scale(2);
+	transition: 1s;
+}
+a.tieude{
+	text-decoration: none;
+	font-family: tahoma;
+	color: black;
+	font-size: 16px;
+	font-weight: bold;
+}
+a.tieude:hover{
+	color: brown;
+}
+.link{
+	padding-top: 8px;
+}
+.text{
+	padding-top: 8px;
+}
+
+.link a{
+	text-decoration: none;
+	font-family: tahoma;
+	font-size: 13px;
+	margin-right: 5px;
+	color: gray;
+}
+
+.text a{
+	text-decoration: none;
+	font-family: tahoma;
+	font-size: 13px;
+	color: gray;
+}
+	
+
